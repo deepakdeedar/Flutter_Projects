@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
                     fontFamily: 'Pacifico'),
               ),
               Text(
-                'FLUTTER DEVELOPER',
+                'FLUTTER & PYTHON DEVELOPER',
                 style: TextStyle(
                   fontSize: 20.0,
                   color: Colors.teal.shade100,
